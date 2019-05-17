@@ -2,7 +2,7 @@
 
 An app that allows users to organize their budget. Users can add and delete budget items, sort by budget category, and calculate their total spending.
 
-![screenshot of app][images/screenshot.png]
+![screenshot of app][../assets/images/screenshot.png]
 
 ## Tools:
 
