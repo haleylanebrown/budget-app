@@ -1,11 +1,14 @@
 # JavaScript/jQuery Budget Manager
 
-Starter code for DU Coding Boot Camp JavaScript/jQuery Review Session.
+An app that allows users to organize their budget. Users can add and delete budget items, sort by budget category, and calculate their total spending.
 
-## Getting Started
+![screenshot of app][./assets/images/screenshot.png]
 
-We'll be working together to add functionality to create new budget items, render budget items, sort by category, show total amount spent, delete budget items, etc. This app will use localStorage for data persistence.
+## Tools:
 
-## Author
+- jQuery 
+- Javascript
+- HTML5
+- CSS
+- localStorage for data persistence
 
-* **Sarah Cullen** - *Initial HTML/CSS*

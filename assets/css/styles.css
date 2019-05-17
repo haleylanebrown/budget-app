@@ -6,15 +6,32 @@
 
 body {
     font-size: 16px;
+    font-family: 'Montserrat', sans-serif;n
 }
 
 .header {
-    margin-top: 0.5em;
+    width: cover;
+    height: 325px;
+    background-image: url("../images/budget.jpg");
+    padding-top: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-h1 {
-    float: left;
-    width: 80%;
+#title {
+    padding:10px;
+    height: 215px;
+    width: 360px;
+    margin-left: 40px;
+    background: #fcd94a;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#titleDiv {
+    font-family: 'Modak', cursive;
+    font-size: 5em;
+    text-align: center;
+    color: white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 h2 {
@@ -33,7 +50,14 @@ h2 {
 #toggleFormButton {
     float: right;
     margin-top: 0.5em;
-    width: 20%;
+    margin-bottom: 0.5em
+}
+
+#budgetContainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 0.2em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #addItemForm {
