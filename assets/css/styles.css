@@ -12,6 +12,7 @@ body {
 .header {
     width: cover;
     height: 325px;
+    margin-bottom: 20px;
     background-image: url("../images/budget.jpg");
     padding-top: 40px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -54,8 +55,7 @@ h2 {
 }
 
 #budgetContainer {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin: auto;
     padding-top: 0.2em;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
